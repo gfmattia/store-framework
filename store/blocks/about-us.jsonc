@@ -19,7 +19,7 @@
     },
     "tab-list.item#home1": {
       "props": {
-        "tabId": "sobre",
+        "tabId": "Sobre",
         "label": "Sobre",
         "defaultActiveTab": true
       }
