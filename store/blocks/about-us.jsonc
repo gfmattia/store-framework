@@ -43,7 +43,7 @@
       ],
       "props": {
         "tabId": "majorAppliances",
-        "label": "Major Appliances",
+        "label": "Major Appliances"
       }
     },
     "tab-content.item#home2": {
